@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neha Girish Mantur</h1>
-<h3 align="center">A passionate and curious developer with a strong interest in AI</h3>
+<h3 align="center">A passionate and curious developer with a strong interest in AI and Datascience</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Neha-Girish-Mantur](https://github.com/Neha-Girish-Mantur)
 
